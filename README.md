@@ -27,3 +27,10 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
+URL Deployed :  https://smccarthy17.github.io/Weekly-Planner/
+
+URL GitHub: https://github.com/Smccarthy17/Weekly-Planner.git
+
+
+Screenshot:  <img src = "images/WeeklyPlanner.png>"
