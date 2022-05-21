@@ -33,4 +33,4 @@ URL Deployed :  https://smccarthy17.github.io/Weekly-Planner/
 URL GitHub: https://github.com/Smccarthy17/Weekly-Planner.git
 
 
-Screenshot:  <img src = "Assets/images/WeeklyPlanner.png>"
+Screenshot:  <img src = "Weekly-Planner/Assets/images/WeeklyPlanner.png>"
